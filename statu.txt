@@ -1,0 +1,6 @@
+{"codigo": 9, "emaill": "pokemub@gmail.com", "status": "Enviado_Para_Analise", "itencodigo": "0", "nometitu": "lucasguizzi", "codcart": "10", "bandeira": "mastercard"}
+{"codigo": 9, "emaill": "pokemub@gmail.com", "status": "Enviado_Para_Analise", "itencodigo": "1", "nometitu": "joao", "codcart": "10", "bandeira": "mastercard"}
+{"codigo": 18, "emaill": "pokemub@gmail.com", "status": "Compra_Efetuada_Com_Sucesso!", "itencodigo": "1", "nometitu": "joao", "codcart": "10", "bandeira": "mastercard"}
+{"codigo": 9, "emaill": "\"pokemub@gmail.com\",", "status": "Enviado_Para_Analise", "itencodigo": "2", "nometitu": "linco", "codcart": "10", "bandeira": "visa"}
+{"codigo": 9, "emaill": "pokemub@gmail.com", "status": "Enviado_Para_Analise", "itencodigo": "0", "nometitu": "julia", "codcart": "10", "bandeira": "mastercard"}
+{"codigo": 18, "emaill": "pokemub@gmail.com", "status": "Compra_Efetuada_Com_Sucesso!", "itencodigo": "0", "nometitu": "julia", "codcart": "10", "bandeira": "mastercard"}

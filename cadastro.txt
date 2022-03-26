@@ -1,0 +1,8 @@
+{"codigo": 2, "codigo2": 2, "nomee": "lucasguizzi", "dataNascimentoo": "29/04/2000", "cpff": "24325443-43", "emaill": "pokemub@gmail.com", "senhaa": "123456"}
+{"codigo": 2, "codigo2": 2, "nomee": "eduardo", "dataNascimentoo": "29/34/2343", "cpff": "243243534-30", "emaill": "dudu@gmail.com", "senhaa": "123456"}
+{"codigo": 2, "codigo2": 2, "nomee": "eduardo", "dataNascimentoo": "29/034/34", "cpff": "12345", "emaill": "ishob@gmail.com", "senhaa": "123456"}
+{"codigo": 2, "codigo2": 2, "nomee": "kiki@gmail.com", "dataNascimentoo": "123456", "cpff": "12543534-03", "emaill": "kiki@gmail.com", "senhaa": "123456"}
+{"codigo": 2, "codigo2": 2, "nomee": "asd", "dataNascimentoo": "ads", "cpff": "asd", "emaill": "ads", "senhaa": "as"}
+{"codigo": 2, "codigo2": 2, "nomee": "joao", "dataNascimentoo": "asdas", "cpff": "asd", "emaill": "asd", "senhaa": "ffsdf"}
+{"codigo": 2, "codigo2": 2, "nomee": "nicolas", "dataNascimentoo": "29/04/4543", "cpff": "23423543", "emaill": "nicolas@gmail.com", "senhaa": "123456"}
+{"codigo": 2, "codigo2": 2, "nomee": "li", "dataNascimentoo": "asd", "cpff": "asd", "emaill": "asd", "senhaa": "asd"}
